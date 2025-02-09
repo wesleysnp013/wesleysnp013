@@ -18,14 +18,7 @@ Aqui estão algumas das tecnologias e ferramentas que utilizo no meu dia a dia:
 ## 🌱 O que estou aprendendo atualmente
 - [ex: "Aprofundando meus conhecimentos em arquitetura de microsserviços."]
 - [ex: "Explorando boas práticas de desenvolvimento com TypeScript."]
-
-## 📂 Projetos Destacados
-Aqui estão alguns dos projetos dos quais me orgulho:
-
-- **[Nome do Projeto](link)** - [Breve descrição do projeto]
-- **[Nome do Projeto](link)** - [Breve descrição do projeto]
-- **[Nome do Projeto](link)** - [Breve descrição do projeto]
-
+ 
 ## 📫 Como me encontrar
 - **GitHub:** [Wesley Leite Alves](https://github.com/wesleysnp013)
 - **LinkedIn:** [Wesley Leite Alves](https://www.linkedin.com/in/wesley-leite-085529211)
@@ -34,7 +27,8 @@ Aqui estão alguns dos projetos dos quais me orgulho:
 ## 📊 Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=wesleysnp013&show_icons=true&theme=radical)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleysnp013&layout=compact&theme=radical)
+![Contribuições do GitHub](https://github-readme-stats.vercel.app/api?username=wesleysnp013&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
 
 ## 🎯 Objetivos Futuros
 - [ex: "Contribuir para projetos open source."]
