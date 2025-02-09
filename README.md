@@ -8,11 +8,10 @@ Atualmente, sou desenvolvedor com experiência em **Node.js**, **PostgreSQL**, *
 ## 🛠️ Tecnologias e Ferramentas
 Aqui estão algumas das tecnologias e ferramentas que utilizo no meu dia a dia:
 
-- **Linguagens de Programação:** JavaScript, Java
+- **Linguagens de Programação:** JavaScript 
 - **Backend:** Node.js, Express.js
 - **Banco de Dados:** PostgreSQL, SQL Server, Redis, mySql, SQLite 
-- **Frontend:** Thymeleaf, HTML, CSS
-- **Ferramentas de Desenvolvimento:** Git, Docker, VS Code
+- **Ferramentas de Desenvolvimento:** VsCode, Git, Amazon - lightsail
 - **Outras:** APIs REST, Integração de Sistemas
 
 ## 🌱 O que estou aprendendo atualmente
