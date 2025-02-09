@@ -16,8 +16,8 @@ Aqui estão algumas das tecnologias e ferramentas que utilizo no meu dia a dia:
 - **Outras:** APIs REST, Integração de Sistemas
 
 ## 🌱 O que estou aprendendo atualmente
-- [ex: "Aprofundando meus conhecimentos em arquitetura de microsserviços."]
-- [ex: "Explorando boas práticas de desenvolvimento com TypeScript."]
+- Estou me aprofundando em NodeJs.
+- ReactJs, React Native.
  
 ## 📫 Como me encontrar
 - **GitHub:** [Wesley Leite Alves](https://github.com/wesleysnp013)
@@ -31,9 +31,7 @@ Aqui estão algumas das tecnologias e ferramentas que utilizo no meu dia a dia:
 
 
 ## 🎯 Objetivos Futuros
-- [ex: "Contribuir para projetos open source."]
-- [ex: "Aprofundar meus conhecimentos em arquitetura de software e cloud computing."]
-- [ex: "Explorar novas tecnologias e frameworks para expandir meu conjunto de habilidades."]
+- FullStack.
 
 ## 🎉 Vamos colaborar!
 Estou sempre aberto a novas oportunidades e desafios que me permitam crescer profissionalmente. Se você tem um projeto interessante ou quer bater um papo sobre tecnologia, sinta-se à vontade para entrar em contato comigo. Vamos construir algo incrível juntos! 🚀
